@@ -10,4 +10,8 @@ WIP!!
   <img src="assets/linear.png" alt="linear"/>
 </p>
 
+# Installation
+
+Download the monokai folder and put it in %APPDATA%\Hex-Rays\IDA Pro\themes, then select on the IDA Options the color monokai
+
 Any suggestions are welcome!
